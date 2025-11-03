@@ -1,0 +1,26 @@
+path:
+  hashtags:
+    past_7_days: "data/last_7_days/hashtags7.csv"
+    past_30_days: "data/last_30_days/hashtags30.csv"
+  songs:
+    past_7_days: "data/last_7_days/songs7.csv"
+    past_30_days: "data/last_30_days/songs30.csv"
+  merge:
+    hashtag: "data/merged_hashtag_data.csv"
+    song: "data/merged_song_data.csv"
+  comments_data:
+    hashtags: "data/likes_and_comments/hashtags"
+    songs: "data/likes_and_comments/songs"
+  cookies:
+    tiktok_creative_center: "cookies/tiktok_creative_center.json"
+    tiktok: "cookies/tiktok.json"
+  vector_db: "data/tiktok_vector_db"
+
+
+url:
+  tiktok_creative_center:
+    hashtag: "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en"
+    song: "https://ads.tiktok.com/business/creativecenter/inspiration/popular/music/pc/en"
+  tiktok: "https://www.tiktok.com"
+
+  
