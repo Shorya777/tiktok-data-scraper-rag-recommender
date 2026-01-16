@@ -1,6 +1,11 @@
 
 # TikTok Data Scraper RAG Recommender
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![TikTok](https://img.shields.io/badge/Platform-TikTok-black?logo=tiktok)
+![Contributors](https://img.shields.io/github/contributors/Shorya777/MemeCoin)
+![License](https://img.shields.io/github/license/Shorya777/MemeCoin)
+
 An intelligent **RAG based AI-powered platform** that helps TikTok creators discover trending content, analyze engagement patterns, and receive personalized content recommendations based on real-time data from TikTok Creative Center. The system scrapes top-performing videos from TikTok Creative Center, processes engagement metrics, and uses advanced AI to answer creator questions about content strategy.
 
 ## What problem does it solve?
@@ -12,6 +17,15 @@ Content creators struggle to:
 * 🎵 Choose the right music for maximum engagement
 * 📈 Keep up with rapidly changing trends
 
+## 🧠 Tech Stack
+
+- **Python**
+- **Web Scraping**
+- **Vector Databases**
+- **RAG (Retrieval Augmented Generation)**
+- **LLMs (OpenAI / Local models)**
+
+---
 
 ## Run Locally
 
@@ -49,4 +63,5 @@ My contacts are given below.
 
 **Discord Username:** shorya_1_2
  
+
 
