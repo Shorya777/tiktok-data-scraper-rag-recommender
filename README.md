@@ -2,7 +2,7 @@
 # TikTok Data Scraper RAG Recommender
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![TikTok](https://img.shields.io/badge/Platform-TikTok-black?logo=tiktok)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![Contributors](https://img.shields.io/github/contributors/Shorya777/MemeCoin)
 ![License](https://img.shields.io/github/license/Shorya777/MemeCoin)
 
@@ -59,9 +59,11 @@ My contacts are given below.
 
 
 ## 🔗 Contacts
-**Reddit:** https://www.reddit.com/u/Shorya_1/s/arYncfOXHF
+[![Reddit](https://img.shields.io/badge/Contact-Reddit-orange?logo=reddit)](https://www.reddit.com/u/Shorya_1/s/arYncfOXHF)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shorya-singhal-~~~/)
 
 **Discord Username:** shorya_1_2
- 
+
+
 
 
