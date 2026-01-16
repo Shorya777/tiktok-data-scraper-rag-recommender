@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
 
 [dependency-groups]
 dev = [
@@ -18,4 +17,5 @@ dev = [
     "pyyaml>=6.0.3",
     "selenium>=4.38.0",
     "seleniumbase>=4.44.4",
+    "streamlit>=1.53.0",
 ]

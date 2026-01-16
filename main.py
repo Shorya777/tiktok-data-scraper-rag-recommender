@@ -89,7 +89,7 @@ def main():
     question = "Which hashtag is the trending on TikTok related to gaming right now?"
     print("\n🤖 Generating recommendation...\n")
     response = platform_obj.generate_response(question)
-    print(response)
+    print(response.answer)
 
 if __name__ == "__main__":
     main()
