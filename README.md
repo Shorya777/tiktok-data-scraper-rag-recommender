@@ -6,9 +6,9 @@
 ![Contributors](https://img.shields.io/github/contributors/Shorya777/MemeCoin)
 ![License](https://img.shields.io/github/license/Shorya777/MemeCoin)
 
-An intelligent **RAG based AI-powered platform** that helps TikTok creators discover trending content, analyze engagement patterns, and receive personalized content recommendations based on real-time data from TikTok Creative Center. The system scrapes top-performing videos from TikTok Creative Center, processes engagement metrics, and uses advanced AI to answer creator questions about content strategy.
+An intelligent **RAG based AI-powered platform** that helps TikTok creators discover trending content, analyze engagement patterns, and receive personalized content recommendations based on real-time data from TikTok Creative Center. The system scrapes top-performing videos from TikTok Creative Center, processes engagement metrics, and uses advanced AI to answer creator questions about content strategy
 
-https://github.com/user-attachments/assets/6aedbb8f-11a0-415f-9f63-daa74b59e6dd
+![demo video](./assets/tiktok-demo.gif)
 
 ## What problem does it solve?
 Content creators struggle to:
@@ -65,6 +65,7 @@ My contacts are given below.
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shorya-singhal-~~~/)
 
 **Discord Username:** shorya_1_2
+
 
 
 
